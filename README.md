@@ -11,7 +11,7 @@ Although the vast majority of stocks were within one standard deviation of the m
 Some stocks increased by as much as 190% whereas others decreased in volume by as much as 92% in the three year period.
 
 ![Box & Whisker Plot for 2018 to 2020 Percent Change in Stocks](https://github.com/INNSKI/VBA-challenge_Vincent-Adrienne/commit/4e17693195afe69b9dee0de1571379829dbebf52)
-
+![Table 1: Statistics of Percent Change for 2018 to 2020 in Stocks](https://github.com/INNSKI/VBA-challenge_Vincent-Adrienne/commit/401b8f18d0e9853a22410c8e393c08560a4bd2f9)
 
 Evaluating the top 10 companies that made the most gains in 2018, 2019 & 2020, there was no consistency between years.
 
