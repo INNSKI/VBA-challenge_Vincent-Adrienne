@@ -10,6 +10,7 @@ This was because there were small average gains in 2018 (+0.16%), but the averag
 Although the vast majority of stocks were within one standard deviation of the mean across all years, there were also several outliers. 
 Some stocks increased by as much as 190% whereas others decreased in volume by as much as 92% in the three year period.
 
+![Box & Whisker Plot for 2018 to 2020 Percent Change in Stocks](https://github.com/INNSKI/VBA-challenge_Vincent-Adrienne/commit/4e17693195afe69b9dee0de1571379829dbebf52)
 
 
 Evaluating the top 10 companies that made the most gains in 2018, 2019 & 2020, there was no consistency between years.
